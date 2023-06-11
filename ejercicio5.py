@@ -1,6 +1,4 @@
 import pandas as pd
-import numpy as np
-
 
 data = {'Producto': ['Pan', 'Jabón', 'Arroz', 'Cerveza', 'Galletas'],
         'Ventas': [80, 250, 600, 50, 300]}
